@@ -4,6 +4,7 @@
 }
 
 .inicio{
+<<<<<<< HEAD
     background-image: url(img/fondo.jpg);
     background-repeat: no-repeat;
    width: 100%;
@@ -11,10 +12,18 @@
    background-size:100%;
    
 
+=======
+   width: 100%;
+}
+ .fondo img{
+    width: 100%;
+    height: 50%;
+>>>>>>> c7ab135e9799654e0bc58bc91e65a57c1c128cbe
  }
 
 img{
     width:20%;
+<<<<<<< HEAD
     border-radius: 50%;
     margin-left: 40%;
     
@@ -44,3 +53,7 @@ main {
 }
 
 
+=======
+    position: absolute;
+}
+>>>>>>> c7ab135e9799654e0bc58bc91e65a57c1c128cbe
